@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For HC165
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+HC165	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+readAll	KEYWORD2
+readChip	KEYWORD2
+readBit	KEYWORD2
+pressed	KEYWORD2
+released	KEYWORD2
+changed	KEYWORD2
+getNumChips	KEYWORD2
+getNumBits	KEYWORD2
+getLastState	KEYWORD2
+getPrevState	KEYWORD2
